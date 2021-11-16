@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ArrayList.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="연결리스트.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LinkedListMain.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LinkedList.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Point.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CLinkedList.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="LinkedListCMain.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BineryTransform.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="NameCard.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="이름카드.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="STACK연습.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrayBaseStack.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ListBaseStack.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="GetGDC.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="%28NoneUseHeaderFile%29middleToPost.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="InFixToPostfix.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="calculatorMain.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PostCalculator.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="InfixCalculator.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CircularQueue.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrayQueMain.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ListBaseQueue.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="QueueMain.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="햄버거큐.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Deque.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DequeMain.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BTree.h">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BTree.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BTreeMain.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ExpressionTree.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ExpressionMain.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DBLinkedList.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DBLinkedListMain.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ArrayList.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkedList.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Point.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CLinkedList.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="NameCard.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="ArrayBaseStack.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="ListBaseStack.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="InFixToPostfix.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="PostCalculator.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="InfixCalculator.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CircularQueue.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="ListBaseQueue.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Deque.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="ExpressionTree.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="DBLinkedList.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
